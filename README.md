@@ -1,11 +1,12 @@
 ## 👋 Hi, I’m @iharris06
-### My Current Projectsa are...
-* Zona Bets: Discord bot for no-stakes betting on sports games, written in Python
+### My Current Projects are...
+* Zona Bets: Discord bot for no-stakes betting on sports games - Python, Elixir, Phoenix, Graphql
 * My Portfolio website, written in React.js, hosted on AWS
 ### I’m currently learning...
+* Elixir and Phoenix Framework
 * Python for a discord bot I've been working on
 ### What I'm looking forward to starting...
-* I've never worked in mobile development and I hope my next project allows me to play around and learn more about it.
+* I've been enjoying learning Elixir and I'm excited to gain some real world experience with it.
 ### 📫 How to reach me --> comment on my code
 Honestly, I'd love some feedback!
 
