@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m @iharris06
 ### My Current Projects are...
 * Zona Bets: Discord bot for no-stakes betting on sports games - Python, Elixir, Phoenix, Graphql
+* go.learnstuff.space --> learn anything with AI. Managed courses generated and graded by AI.
+* spelldown --> AI simulated spelling bee with real historical words.
 * My Portfolio website, written in React.js, hosted on AWS
 ### I’m currently learning...
 * Elixir and Phoenix Framework
